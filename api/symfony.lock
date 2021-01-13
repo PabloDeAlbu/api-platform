@@ -1,4 +1,7 @@
 {
+    "api-platform/api-pack": {
+        "version": "v1.3.0"
+    },
     "api-platform/core": {
         "version": "2.6",
         "recipe": {
@@ -373,6 +376,9 @@
     "symfony/options-resolver": {
         "version": "v5.2.0"
     },
+    "symfony/orm-pack": {
+        "version": "v2.1.0"
+    },
     "symfony/phpunit-bridge": {
         "version": "4.3",
         "recipe": {
@@ -408,6 +414,9 @@
     },
     "symfony/property-info": {
         "version": "v5.2.0"
+    },
+    "symfony/proxy-manager-bridge": {
+        "version": "v5.2.1"
     },
     "symfony/routing": {
         "version": "5.1",
@@ -449,6 +458,9 @@
     },
     "symfony/serializer": {
         "version": "v5.2.0"
+    },
+    "symfony/serializer-pack": {
+        "version": "v1.0.4"
     },
     "symfony/service-contracts": {
         "version": "v2.2.0"
